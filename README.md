@@ -15,7 +15,7 @@ I am a results-driven Data Analyst passionate about turning raw data into action
 ## 🚀 Featured Project: Sales Performance Analysis
 **Objective:** Transformed raw sales data into an interactive dashboard to identify revenue trends and customer behavior.
 
-### [📊 View Interactive Tableau Dashboard]([(https://public.tableau.com/views/Salesanalysis_17787969352770/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
+### [📊 View Interactive Tableau Dashboard]([https://public.tableau.com/views/Salesanalysis_17787969352770/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
 
 ### Key Features:
 * **Interactive Filtering:** Slicers for Date Range, Category, and State for deep-dive analysis.
@@ -29,5 +29,5 @@ I am a results-driven Data Analyst passionate about turning raw data into action
 ---
 
 ## 📬 Connect with me:
-* [LinkedIn]()
+* [LinkedIn](http://linkedin.com/in/preciousmicheal
 * [Portfolio Website]([(https://public.tableau.com/app/profile/precious.micheal4182)])
